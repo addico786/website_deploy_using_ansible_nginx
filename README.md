@@ -21,7 +21,7 @@
 
 ---
 
-# Playbooks Description
+# Playbooks Description:
 1.install_nginx.yml(Installs and starts the Nginx service on development servers (devserver)).
 2.deploy.yml(Deploys a static index.html file to the production server (prdserver) inside /var/www/html/).
 
