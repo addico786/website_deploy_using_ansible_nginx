@@ -27,7 +27,7 @@
 
 ---
 
-# How to Run
+# How to Run:
 ```
 ansible-playbook install_nginx.yml
 ```
