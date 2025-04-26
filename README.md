@@ -50,7 +50,7 @@ ansible-playbook deploy.yml
 
 ---
 
-# Conclusion
+# Conclusion:
 This project shows how easy and powerful Ansible is for:
 1.Installing packages.
 2.Managing services.
