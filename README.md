@@ -14,7 +14,7 @@
 ---
 
 
-# Prerequisites
+# Prerequisites:
 1.Ubuntu EC2 Instances (or any Linux server).
 2.Ansible installed on the control machine.
 3.SSH access with private key.
