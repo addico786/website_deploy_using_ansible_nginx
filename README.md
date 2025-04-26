@@ -38,7 +38,7 @@ ansible-playbook deploy.yml
 ---
 
 
-# Screenshots
+# Screenshots:
 ## 📸 Screenshot: Playbook running in terminal
 (https://github.com/user-attachments/assets/1e513c60-2079-4f64-a0b5-1e1a8b9e8b84)
 
