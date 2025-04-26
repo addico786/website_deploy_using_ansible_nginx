@@ -45,7 +45,7 @@ ansible-playbook deploy.yml
 ## 📸 Screenshot: Default "Welcome to Nginx" Page.
 (https://github.com/user-attachments/assets/863df5e4-c5c8-4742-a1e1-ad15f23f9236)
 
-## 📸 Screenrecording: Static Web Page (Deployed)
+## 📸 Screenrecording: Static Web Page (Deployed).
 (https://github.com/user-attachments/assets/f09b60a2-2707-485a-b110-c84b0965bc77)
 
 ---
